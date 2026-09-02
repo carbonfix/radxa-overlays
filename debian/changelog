@@ -1,3 +1,24 @@
+radxa-overlays (0.2.30) noble; urgency=medium
+
+  [ Peng Liu ]
+  * overlay: qcom: radxa-dragon-q6a: add 8hd 2lane support
+  * fix: adjust radxa-dragon-q6a Raspberry Pi 7-inch Touchscreen 2 description
+  * fix: correct radxa-dragon-q6a waveshare 3.5 inch model C reset polarity
+
+  [ Feng Zhang ]
+  * feat: add CM-A7 RPi CM5 IO overlays
+
+  [ William Norman ]
+  * fix: fix qcs9075 spi20 and i2c20 bus number in qcs9075-uart20
+
+  [ liupeng ]
+  * overlay: qcom: radxa-dragon-q6a: add Raspiberry Pi 7-inch Touchscreen
+
+  [ Xinming Chen ]
+  * feat: add ROCK 5C 2M AR0234 camera overlay
+
+ -- "Radxa Computer Co., Ltd" <dev@radxa.com>  Wed, 02 Sep 2026 10:41:42 +0000
+
 radxa-overlays (0.2.29) noble; urgency=medium
 
   [ William Norman ]
